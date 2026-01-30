@@ -4,10 +4,6 @@
 #include <TM1637Display.h>
 #include "wifi_credentials.h"
 
-// WiFi
-// const char* ssid = "Buffalo-G-7FC8";
-// const char* password = "3eicprewd5bx6";
-
 
 // NTP
 const char* ntpServer1 = "ntp.nict.jp";
